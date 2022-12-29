@@ -1,0 +1,6 @@
+.idea
+mysql
+aws-june.zip
+
+# Project exclude paths
+/target/
